@@ -22,6 +22,7 @@ Z-Wave is a popular home automation protocol that is not always straightforward 
 | Aeotec Z-Stick Series 2 | X              |                  |              |           |
 | Aeotec Z-Stick Series 5 | X              |                  |              |           |
 
+- Note: As this time (2016-03-25), the Series 5 stick's LED will cycle through Blue, Orange, and Red when the device is working normally.
 
 ## {% linkable_title Stick Alternatives %}
 
